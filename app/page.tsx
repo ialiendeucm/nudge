@@ -1,9 +1,9 @@
 export default function Home() {
   const tools = [
     {
-      name: "BEAM, Behavioural Message Auditor",
+      name: "BEAM, Behavioral Message Auditor",
       description:
-        "Analyse written messages through the lens of Behavioural Economics and improve clarity, influence, and structure.",
+        "Analyse written messages through the lens of Behavioral Economics and improve clarity, influence, and structure.",
       href: "https://chatgpt.com/g/g-6974f6f3ba148191b31b6f1642c50299-beam-behavioral-message-auditor",
     },
     {
@@ -26,7 +26,7 @@ export default function Home() {
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-5">
           <div>
             <p className="text-[11px] font-semibold uppercase tracking-[0.22em] text-slate-500">
-              Behavioural Economics Tools
+              Behavioral Economics Tools
             </p>
             <h1 className="mt-1 text-2xl font-semibold tracking-tight">
               Iñaki Aliende, PhD
@@ -57,7 +57,7 @@ export default function Home() {
               </p>
 
               <h2 className="mt-5 max-w-4xl text-4xl font-semibold leading-tight tracking-tight md:text-6xl md:leading-[1.05]">
-                Behavioural Economics tools for communication, nudging, and causal reasoning.
+                Behavioral Economics tools for communication, nudging, and causal reasoning.
               </h2>
 
               <p className="mt-8 max-w-2xl text-lg leading-8 text-slate-600">
@@ -125,11 +125,11 @@ export default function Home() {
                 Tools
               </p>
               <h2 className="mt-3 text-3xl font-semibold tracking-tight md:text-5xl">
-                Three GPTs for applied Behavioural Economics
+                Three GPTs for applied Behavioral Economics
               </h2>
               <p className="mt-5 text-base leading-8 text-slate-600">
                 Each tool is designed as a practical point of entry into a specific task. Together,
-                they form a small but coherent suite that connects behavioural insight, applied
+                they form a small but coherent suite that connects behavioral insight, applied
                 reasoning, and structured support.
               </p>
             </div>
@@ -178,7 +178,7 @@ export default function Home() {
             <div className="space-y-6 text-base leading-8 text-slate-600">
               <p>
                 These tools are presented within an academic-professional profile focused on Applied
-                Economics, Behavioural Economics, Data Science, and evaluation. Their purpose is not
+                Economics, Behavioral Economics, Data Science, and evaluation. Their purpose is not
                 only to provide AI support, but also to translate structured reasoning into practical
                 use.
               </p>
@@ -207,7 +207,7 @@ export default function Home() {
 
                 <p className="mt-6 max-w-3xl text-base leading-8 text-slate-300">
                   I am a university lecturer, researcher, and consultant working at the intersection
-                  of Applied Economics, Behavioural Economics, and Data Science.
+                  of Applied Economics, Behavioral Economics, and Data Science.
                   <br />
                   My work combines academic rigour with practical applications in communication,
                   evaluation, and decision-making.
