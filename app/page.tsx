@@ -9,7 +9,7 @@ export default function Home() {
     {
       name: "Nudge Designer",
       description:
-        "Generate practical, ethical nudges for organisations, public policy, communication, and behaviour change.",
+        "Generate practical, ethical nudges for organisations, public policy, communication, and behavior change.",
       href: "https://chatgpt.com/g/g-6994631f29448191b7c487dccbc0ef0d-nudge-designer",
     },
     {
@@ -57,12 +57,12 @@ export default function Home() {
               </p>
 
               <h2 className="mt-5 max-w-4xl text-4xl font-semibold leading-tight tracking-tight md:text-6xl md:leading-[1.05]">
-                Behavioral Economics tools for communication, nudging, and causal reasoning.
+                Behavioral Economics tools for communication, nudging, and causal evaluation.
               </h2>
 
               <p className="mt-8 max-w-2xl text-lg leading-8 text-slate-600">
                 This site brings together a small suite of GPT-based tools designed to support
-                applied work in communication, behaviour change, and analytical reasoning. The
+                applied work in communication, behavior change, and analytical reasoning. The
                 overall approach combines academic rigour with practical usability.
               </p>
 
@@ -125,7 +125,7 @@ export default function Home() {
                 Tools
               </p>
               <h2 className="mt-3 text-3xl font-semibold tracking-tight md:text-5xl">
-                Three GPTs for applied Behavioral Economics
+                Three GPTs for applied Behavioral Economics.
               </h2>
               <p className="mt-5 text-base leading-8 text-slate-600">
                 Each tool is designed as a practical point of entry into a specific task. Together,
@@ -178,14 +178,14 @@ export default function Home() {
             <div className="space-y-6 text-base leading-8 text-slate-600">
               <p>
                 These tools are presented within an academic-professional profile focused on Applied
-                Economics, Behavioral Economics, Data Science, and evaluation. Their purpose is not
-                only to provide AI support, but also to translate structured reasoning into practical
+                Economics, Behavioral Economics, Data Science, and project-evaluation. Their purpose is not
+                only to provide AI support, but also to translate structured nudging into practical
                 use.
               </p>
 
               <p>
-                Developed by Iñaki Aliende, PhD, this suite connects academic rigour with practical
-                decision support in communication, behaviour change, and analytical reasoning.
+                Developed by Iñaki Aliende, PhD, this suite connects his academic research with practical
+                decision support in policy-making, behavior change, and project-evaluation.
               </p>
             </div>
           </div>
@@ -209,8 +209,8 @@ export default function Home() {
                   I am a university lecturer, researcher, and consultant working at the intersection
                   of Applied Economics, Behavioral Economics, and Data Science.
                   <br />
-                  My work combines academic rigour with practical applications in communication,
-                  evaluation, and decision-making.
+                  My work combines academic rigour with practical applications in policies,
+                  program-evaluation, and decision-making.
                   <br />
                   I develop tools and training initiatives designed to translate analytical insight
                   into real-world use.
