@@ -1,7 +1,7 @@
 export default function Home() {
   const tools = [
     {
-      name: "BEAM, Behavioral Message Auditor",
+      name: "Behavioral Message Auditor",
       description:
         "Analyse written messages through the lens of Behavioral Economics and improve clarity, influence, and structure.",
       href: "https://chatgpt.com/g/g-6974f6f3ba148191b31b6f1642c50299-beam-behavioral-message-auditor",
@@ -128,9 +128,8 @@ export default function Home() {
                 Three GPTs for applied Behavioral Economics.
               </h2>
               <p className="mt-5 text-base leading-8 text-slate-600">
-                Each tool is designed as a practical point of entry into a specific task. Together,
-                they form a small but coherent suite that connects behavioral insight, applied
-                reasoning, and structured support.
+                Each tool is designed as a practical point of entry into a specific task along a behavioral intervention. Together,
+                they form a coherent suite that boosts reasearch and practice.
               </p>
             </div>
 
@@ -202,7 +201,7 @@ export default function Home() {
                   Contact
                 </p>
                 <h2 className="mt-3 text-3xl font-semibold tracking-tight md:text-5xl">
-                  For academic collaboration, training, or applied projects
+                  For academic collaboration, training, or applied projects.
                 </h2>
 
                 <p className="mt-6 max-w-3xl text-base leading-8 text-slate-300">
